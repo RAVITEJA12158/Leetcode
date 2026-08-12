@@ -4,8 +4,28 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-12T16:00:15.911Z",
+  "updatedAt": "2026-08-12T16:00:40.089Z",
   "problems": [
+    {
+      "frontendId": "3536",
+      "title": "Maximum Product of Two Digits",
+      "slug": "maximum-product-of-two-digits",
+      "problemName": "3536-maximum-product-of-two-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-digits/",
+      "folderPath": "3536-maximum-product-of-two-digits/",
+      "readmePath": "3536-maximum-product-of-two-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3536-maximum-product-of-two-digits.cpp",
+          "path": "3536-maximum-product-of-two-digits/3536-maximum-product-of-two-digits.cpp",
+          "sha": "4287751ed525299b2faadb71a5dd500d1fa7cd38",
+          "lastSyncedAt": "2026-08-12T16:00:40.089Z"
+        }
+      ]
+    },
     {
       "frontendId": "3731",
       "title": "Find Missing Elements",
