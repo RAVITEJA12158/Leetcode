@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-12T16:00:15.911Z",
+  "updatedAt": "2026-08-12T16:00:47.674Z",
   "problems": [
+    {
+      "frontendId": "1464",
+      "title": "Maximum Product of Two Elements in an Array",
+      "slug": "maximum-product-of-two-elements-in-an-array",
+      "problemName": "1464-maximum-product-of-two-elements-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/",
+      "folderPath": "1464-maximum-product-of-two-elements-in-an-array/",
+      "readmePath": "1464-maximum-product-of-two-elements-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1464-maximum-product-of-two-elements-in-an-array.java",
+          "path": "1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.java",
+          "sha": "32c43cd198783139ea06b0275190d7126b517be2",
+          "lastSyncedAt": "2026-08-12T16:00:47.674Z"
+        }
+      ]
+    },
     {
       "frontendId": "1979",
       "title": "Find Greatest Common Divisor of Array",
