@@ -4,8 +4,28 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-12T15:59:10.234Z",
+  "updatedAt": "2026-08-12T15:59:17.975Z",
   "problems": [
+    {
+      "frontendId": "511",
+      "title": "Game Play Analysis I",
+      "slug": "game-play-analysis-i",
+      "problemName": "0511-game-play-analysis-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/game-play-analysis-i/",
+      "folderPath": "0511-game-play-analysis-i/",
+      "readmePath": "0511-game-play-analysis-i/README.md",
+      "solutions": [
+        {
+          "language": "PostgreSQL",
+          "extension": ".sql",
+          "filename": "0511-game-play-analysis-i.sql",
+          "path": "0511-game-play-analysis-i/0511-game-play-analysis-i.sql",
+          "sha": "e517cc069a4c0ea98a3991f1bed50fdf66f22e7e",
+          "lastSyncedAt": "2026-08-12T15:59:17.975Z"
+        }
+      ]
+    },
     {
       "frontendId": "577",
       "title": "Employee Bonus",
