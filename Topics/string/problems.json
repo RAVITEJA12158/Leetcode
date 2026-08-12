@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-12T16:01:04.667Z",
+  "updatedAt": "2026-08-12T16:01:31.606Z",
   "problems": [
+    {
+      "frontendId": "2785",
+      "title": "Sort Vowels in a String",
+      "slug": "sort-vowels-in-a-string",
+      "problemName": "2785-sort-vowels-in-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-vowels-in-a-string/",
+      "folderPath": "2785-sort-vowels-in-a-string/",
+      "readmePath": "2785-sort-vowels-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2785-sort-vowels-in-a-string.java",
+          "path": "2785-sort-vowels-in-a-string/2785-sort-vowels-in-a-string.java",
+          "sha": "acc2e737453ab38a19c11d1eb7a66b613b344289",
+          "lastSyncedAt": "2026-08-12T16:01:31.606Z"
+        }
+      ]
+    },
     {
       "frontendId": "3798",
       "title": "Largest Even Number",
