@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-12T15:59:52.320Z",
+  "updatedAt": "2026-08-12T16:00:15.911Z",
   "problems": [
     {
       "frontendId": "1979",
@@ -23,6 +23,26 @@
           "path": "1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.java",
           "sha": "ca1f9e4dfe397521e9275ea19f0ea14c4da90326",
           "lastSyncedAt": "2026-08-12T15:59:52.320Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3731",
+      "title": "Find Missing Elements",
+      "slug": "find-missing-elements",
+      "problemName": "3731-find-missing-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-missing-elements/",
+      "folderPath": "3731-find-missing-elements/",
+      "readmePath": "3731-find-missing-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3731-find-missing-elements.java",
+          "path": "3731-find-missing-elements/3731-find-missing-elements.java",
+          "sha": "0f142578872a8b1bd78424d14b82298434771826",
+          "lastSyncedAt": "2026-08-12T16:00:15.911Z"
         }
       ]
     }
