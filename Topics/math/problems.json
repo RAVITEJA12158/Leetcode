@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-12T16:00:40.089Z",
+  "updatedAt": "2026-08-12T16:01:42.552Z",
   "problems": [
+    {
+      "frontendId": "1317",
+      "title": "Convert Integer to the Sum of Two No-Zero Integers",
+      "slug": "convert-integer-to-the-sum-of-two-no-zero-integers",
+      "problemName": "1317-convert-integer-to-the-sum-of-two-no-zero-integers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/",
+      "folderPath": "1317-convert-integer-to-the-sum-of-two-no-zero-integers/",
+      "readmePath": "1317-convert-integer-to-the-sum-of-two-no-zero-integers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1317-convert-integer-to-the-sum-of-two-no-zero-integers.java",
+          "path": "1317-convert-integer-to-the-sum-of-two-no-zero-integers/1317-convert-integer-to-the-sum-of-two-no-zero-integers.java",
+          "sha": "afdbc15c4e65e2c81f61e5ab04e584c67241bee0",
+          "lastSyncedAt": "2026-08-12T16:01:42.552Z"
+        }
+      ]
+    },
     {
       "frontendId": "1979",
       "title": "Find Greatest Common Divisor of Array",
