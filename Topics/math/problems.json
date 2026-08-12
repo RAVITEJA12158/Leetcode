@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-12T16:00:30.949Z",
+  "updatedAt": "2026-08-12T16:00:40.089Z",
   "problems": [
     {
       "frontendId": "1979",
@@ -43,6 +43,26 @@
           "path": "3345-smallest-divisible-digit-product-i/3345-smallest-divisible-digit-product-i.cpp",
           "sha": "b528a2b46872c9e7b1c40cce42c913a8b5aa3a9e",
           "lastSyncedAt": "2026-08-12T16:00:30.949Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3536",
+      "title": "Maximum Product of Two Digits",
+      "slug": "maximum-product-of-two-digits",
+      "problemName": "3536-maximum-product-of-two-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-digits/",
+      "folderPath": "3536-maximum-product-of-two-digits/",
+      "readmePath": "3536-maximum-product-of-two-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3536-maximum-product-of-two-digits.cpp",
+          "path": "3536-maximum-product-of-two-digits/3536-maximum-product-of-two-digits.cpp",
+          "sha": "4287751ed525299b2faadb71a5dd500d1fa7cd38",
+          "lastSyncedAt": "2026-08-12T16:00:40.089Z"
         }
       ]
     }
