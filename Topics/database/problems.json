@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "database",
+    "name": "Database"
+  },
+  "updatedAt": "2026-08-12T15:59:10.234Z",
+  "problems": [
+    {
+      "frontendId": "577",
+      "title": "Employee Bonus",
+      "slug": "employee-bonus",
+      "problemName": "0577-employee-bonus",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/employee-bonus/",
+      "folderPath": "0577-employee-bonus/",
+      "readmePath": "0577-employee-bonus/README.md",
+      "solutions": [
+        {
+          "language": "PostgreSQL",
+          "extension": ".sql",
+          "filename": "0577-employee-bonus.sql",
+          "path": "0577-employee-bonus/0577-employee-bonus.sql",
+          "sha": "63b74a52252f8cd1a6efa802c8fccd561b3d8985",
+          "lastSyncedAt": "2026-08-12T15:59:10.234Z"
+        }
+      ]
+    }
+  ]
+}
