@@ -4,8 +4,28 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-08-12T15:59:17.975Z",
+  "updatedAt": "2026-08-12T15:59:24.319Z",
   "problems": [
+    {
+      "frontendId": "181",
+      "title": "Employees Earning More Than Their Managers",
+      "slug": "employees-earning-more-than-their-managers",
+      "problemName": "0181-employees-earning-more-than-their-managers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/employees-earning-more-than-their-managers/",
+      "folderPath": "0181-employees-earning-more-than-their-managers/",
+      "readmePath": "0181-employees-earning-more-than-their-managers/README.md",
+      "solutions": [
+        {
+          "language": "PostgreSQL",
+          "extension": ".sql",
+          "filename": "0181-employees-earning-more-than-their-managers.sql",
+          "path": "0181-employees-earning-more-than-their-managers/0181-employees-earning-more-than-their-managers.sql",
+          "sha": "3af43f450cd8f12f4b046f6a470342de6864c04f",
+          "lastSyncedAt": "2026-08-12T15:59:24.319Z"
+        }
+      ]
+    },
     {
       "frontendId": "511",
       "title": "Game Play Analysis I",
