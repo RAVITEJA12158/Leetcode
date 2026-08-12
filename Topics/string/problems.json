@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String"
+  },
+  "updatedAt": "2026-08-12T16:01:04.667Z",
+  "problems": [
+    {
+      "frontendId": "3798",
+      "title": "Largest Even Number",
+      "slug": "largest-even-number",
+      "problemName": "3798-largest-even-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-even-number/",
+      "folderPath": "3798-largest-even-number/",
+      "readmePath": "3798-largest-even-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3798-largest-even-number.java",
+          "path": "3798-largest-even-number/3798-largest-even-number.java",
+          "sha": "bf72023cef3df3323366c458c3add19320667c6c",
+          "lastSyncedAt": "2026-08-12T16:01:04.667Z"
+        }
+      ]
+    }
+  ]
+}
