@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-table",
+    "name": "Hash Table"
+  },
+  "updatedAt": "2026-08-12T16:00:15.911Z",
+  "problems": [
+    {
+      "frontendId": "3731",
+      "title": "Find Missing Elements",
+      "slug": "find-missing-elements",
+      "problemName": "3731-find-missing-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-missing-elements/",
+      "folderPath": "3731-find-missing-elements/",
+      "readmePath": "3731-find-missing-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3731-find-missing-elements.java",
+          "path": "3731-find-missing-elements/3731-find-missing-elements.java",
+          "sha": "0f142578872a8b1bd78424d14b82298434771826",
+          "lastSyncedAt": "2026-08-12T16:00:15.911Z"
+        }
+      ]
+    }
+  ]
+}
