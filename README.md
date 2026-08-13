@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 19 | 15 | 4 | 0 |
+| 20 | 16 | 4 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 9 |
+| 2 days | 2 days | 10 |
 
 | Date | Problems |
 | --- | ---: |
@@ -24,18 +24,19 @@ Contains topicwise list of solved problems.
 | 2026-08-09 | 4 |
 | 2026-08-10 | 1 |
 | 2026-08-12 | 7 |
+| 2026-08-13 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 8 | 42% |
-| Array | 6 | 32% |
-| Sorting | 5 | 26% |
-| Math | 4 | 21% |
-| Divide and Conquer | 2 | 11% |
-| Hash Table | 2 | 11% |
-| String | 2 | 11% |
+| Database | 9 | 45% |
+| Array | 6 | 30% |
+| Sorting | 5 | 25% |
+| Math | 4 | 20% |
+| Divide and Conquer | 2 | 10% |
+| Hash Table | 2 | 10% |
+| String | 2 | 10% |
 | Binary Search | 1 | 5% |
 | Boyer–Moore Majority Vote Algorithm | 1 | 5% |
 | Counting | 1 | 5% |
@@ -48,7 +49,7 @@ Contains topicwise list of solved problems.
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Counting](Topics/counting/) | 1 |
-| [Database](Topics/database/) | 8 |
+| [Database](Topics/database/) | 9 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Enumeration](Topics/enumeration/) | 1 |
