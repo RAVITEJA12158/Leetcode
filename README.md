@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 16 | 4 | 0 |
+| 21 | 17 | 4 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 10 |
+| 1 days | 2 days | 11 |
 
 | Date | Problems |
 | --- | ---: |
@@ -25,15 +25,16 @@ Contains topicwise list of solved problems.
 | 2026-08-10 | 1 |
 | 2026-08-12 | 7 |
 | 2026-08-13 | 1 |
+| 2026-08-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 9 | 45% |
-| Array | 6 | 30% |
-| Sorting | 5 | 25% |
-| Math | 4 | 20% |
+| Database | 9 | 43% |
+| Array | 6 | 29% |
+| Math | 5 | 24% |
+| Sorting | 5 | 24% |
 | Divide and Conquer | 2 | 10% |
 | Hash Table | 2 | 10% |
 | String | 2 | 10% |
@@ -57,7 +58,7 @@ Contains topicwise list of solved problems.
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
 | [Hash Table](Topics/hash-table/) | 2 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Math](Topics/math/) | 4 |
+| [Math](Topics/math/) | 5 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Sorting](Topics/sorting/) | 5 |
 | [String](Topics/string/) | 2 |
